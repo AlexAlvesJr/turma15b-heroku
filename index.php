@@ -73,7 +73,7 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div class="hero-container" data-aos="fade-in">
+    <div class="hero-container" data-aos="fade-in" style="margin-left: 190px;">
       <h1>Alex Alves</h1>
       <p>I'm <span class="typed" data-typed-items="IT Analyst, Mechanical Engineer, DJ"></span></p>
       <p>Você sabia que trabalhar com tecnologia te dá maior mobilidade?</p>
