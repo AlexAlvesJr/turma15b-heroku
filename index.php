@@ -76,6 +76,8 @@
     <div class="hero-container" data-aos="fade-in">
       <h1>Alex Alves</h1>
       <p>I'm <span class="typed" data-typed-items="IT Analyst, Mechanical Engineer, DJ"></span></p>
+      <h2>Você sabia que trabalhar com tecnologia te dá maior mobilidade?</h2>
+      <a target="_blank" href="https://api.whatsapp.com/send?phone=5511998771834&text=Ol%C3%A1%2C%20qual%20o%20valor%20da%20consultoria%3F"> agendar consultoria</a>
     </div>
   </section><!-- End Hero -->
 
