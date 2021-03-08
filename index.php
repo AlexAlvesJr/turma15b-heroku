@@ -75,9 +75,9 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in" style="margin-left: 190px;">
       <h1>Alex Alves</h1>
-      <p>I'm <span class="typed" data-typed-items="IT Analyst, Mechanical Engineer, DJ"></span></p>
+      <p>I'm <span class="typed" data-typed-items="IT Analyst, DJ"></span></p>
       <p>Você sabia que trabalhar com tecnologia te dá maior mobilidade?</p>
-      <a target="_blank" href="https://api.whatsapp.com/send?phone=5511998771834&text=Ol%C3%A1%2C%20qual%20o%20valor%20da%20consultoria%3F"> agendar consultoria</a>
+      <a target="col-lg-8 _blank" href="https://api.whatsapp.com/send?phone=5511998771834&text=Ol%C3%A1%2C%20qual%20o%20valor%20da%20consultoria%3F"> agendar consultoria</a>
     </div>
   </section><!-- End Hero -->
 
