@@ -48,7 +48,7 @@
 
       <div class="profile">
         <img src="/assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+        <h1 class="text-light"><a href="index.html">Alex Alves</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -75,7 +75,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1>Alex Alves</h1>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+      <p>I'm <span class="typed" data-typed-items="IT Analyst, Mechanical Engineer, DJ"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -92,7 +92,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="/assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="/assets/img/profile-alex.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Engenheiro Mecânico &amp; Analista de TI.</h3>
